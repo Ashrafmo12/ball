@@ -22,11 +22,7 @@ class MyApp extends StatelessWidget {
         // reload" button in a Flutter-supported IDE, or press "r" if you used
         // the command line to start the app).
         //
-        // Notice that the counter didn't reset back to zero; the application
-        // state is not lost during the reload. To reset the state, use hot
-        // restart instead.
-        //
-        // This works for code too, not just values: Most code changes can be
+        // Notice that the counter didn't reset back
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
